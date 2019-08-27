@@ -25,4 +25,4 @@
 
 
 
-![](images/los-house.jpeg)
+![](images/los-house.jpg)
