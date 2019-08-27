@@ -5,8 +5,8 @@
 
 序列|代码笔记|博客链接
 ---|---|---
-前期知识|01.机器学习完整技术栈<br>02.Pandas操作快查表|
-基础训练|03.机器学习baseline|
+前期知识|01.机器学习完整技术栈<br>02.Pandas操作快查表|[1.人工智能的Pipeline - 简书](https://www.jianshu.com/p/bacae9b3bf17)<br>[2.Pandas操作快查表 - 简书](https://www.jianshu.com/p/ad3061ad78cc)
+基础训练|03.机器学习Baseline|[3.房价预测Baseline - 简书](https://www.jianshu.com/p/9de54d5d70d5)
 特征工程|04.Seaborn操作快查表<br>数据预处理/空值填充|---
 初步训练|---|---
 线性回归|---|---
